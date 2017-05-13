@@ -27,7 +27,7 @@ img {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: url(http://link-to-your/image.jpg) no-repeat;
+	background:  no-repeat;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -45,31 +45,3 @@ h2 {
     text-decoration: underline;
 }
 
-#projects {
-    margin-left: 2%
-}
-
-#other {
-    margin-left: 2%
-}
-
-#contacts {
-    margin-left: 2%
-}
-
-#skills {
-    margin-left: 2%
-}
-
-#myself {
-    margin-left: 3%
-}
-#pic{
-    margin-left: 3.08%
-}
-.otherInt {
-    margin-left: 3%
-}
-.mail {
-    margin-left: 1.5%;
-}
